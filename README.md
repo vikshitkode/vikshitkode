@@ -20,7 +20,7 @@ Beyond the world of code, you’ll find me exploring **real estate trends**, cap
 <img align="left" alt="React" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Node.js" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="AWS" width="30px" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
-<img align="left" alt="Tableau" width="30px" style="padding:10px;" src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png"/>
+<img align="left" alt="Tableau" width="30px" style="padding:10px;" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png"/>
 <img align="left" alt="SQL" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
