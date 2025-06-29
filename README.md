@@ -16,7 +16,7 @@ Beyond coding, I explore **real estate trends**, capture **breathtaking photogra
 
 <img align="left" alt="Swift" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="Xcode" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
-<img align="left" alt="SwiftUI" width="30px" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/SwiftUI_Logo.svg"/>
+<img align="left" alt="SwiftUI" width="30px" style="padding:10px;" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-256x256_2x.png"/>
 <img align="left" alt="Firebase" width="30px" style="padding:10px;" src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png"/>
 <img align="left" alt="Figma" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Flutter" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
