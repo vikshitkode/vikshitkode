@@ -31,14 +31,6 @@ Beyond coding, I explore **real estate trends**, capture **breathtaking photogra
 
 ---
 
-### 📊 **GitHub Stats**  
-
-<a href="https://github.com/vikshitkode">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikshitkode&show_icons=true&theme=radical" alt="Vikshit's GitHub Stats"/>
-</a>
-
----
-
 ### 📌 **My Journey**  
 
 🔹 Started coding in high school, diving into **C++ and web development**.  
