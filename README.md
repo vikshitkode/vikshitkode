@@ -12,7 +12,7 @@ When I’m not coding, I explore **new iOS frameworks**, study **Apple’s Human
 
 ---
 
-### 🛠 **iOS Tech Stack**  
+### 🛠 iOS Tech Stack  
 
 <img align="left" alt="Swift" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="Xcode" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
@@ -20,12 +20,12 @@ When I’m not coding, I explore **new iOS frameworks**, study **Apple’s Human
 <img align="left" alt="UIKit" width="30px" style="padding:10px;" src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png"/>
 <img align="left" alt="Firebase" width="30px" style="padding:10px;" src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-300x378.png">
 <img align="left" alt="Figma" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<br />
+<img align="left" alt="GitHub" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  
 
+<br />  
 
 **Core Expertise:**  
-Swift • SwiftUI • UIKit • Combine • HealthKit • SwiftData/Core Data • Firebase • REST APIs • MapKit • AVFoundation • XCTest • MVVM • Clean Architecture • UI/UX Design  
+Swift • SwiftUI • UIKit • Combine • HealthKit • SwiftData/Core Data • Firebase • REST APIs • MapKit • AVFoundation • XCTest • MVVM • Clean Architecture • UI/UX Design 
 
 ---
 
