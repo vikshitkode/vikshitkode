@@ -45,7 +45,7 @@ Swift • SwiftUI • UIKit • Combine • HealthKit • SwiftData/Core Data �
 
 ### 🌍 **Let’s Connect!**  
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikshitkode/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikshitkode) | [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://unrivaled-sawine-5c1fc4.netlify.app/) |  
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikshitkode/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikshitkode) | [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vikshitkodeios.netlify.app/) |  
 |---|---|---|  
 
 💬 Open to **iOS internships, entry-level roles, open-source collaborations, and App Store launches**. Let’s **build impactful apps for the Apple ecosystem**! 🍎  
