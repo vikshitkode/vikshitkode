@@ -15,13 +15,13 @@ When I’m not coding, I explore **new iOS frameworks**, study **Apple’s Human
 ### 🛠 iOS Tech Stack  
 
 <p align="center">
-  <img alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-  <img alt="Xcode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
-  <img alt="SwiftUI" width="30px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-256x256_2x.png"/>
-  <img alt="UIKit" width="30px" src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png"/>
-  <img alt="Firebase" width="30px" src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-300x378.png"/>
-  <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="Swift" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+  <img alt="Xcode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+  <img alt="SwiftUI" width="50px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-256x256_2x.png"/>
+  <img alt="UIKit" width="50px" src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png"/>
+  <img alt="Firebase" width="50px" src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-300x378.png"/>
+  <img alt="Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>  
 
 **Core Expertise:**  
