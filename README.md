@@ -67,14 +67,15 @@ Swift • SwiftUI • UIKit • Combine • HealthKit • SwiftData/Core Data �
   <img src="INSERT_PROJECT1_GIF_OR_SCREENSHOT" width="200" alt="StepBuddy Demo"/>
 </p>  
 
-### [StepBuddy](INSERT_APP_STORE_OR_GITHUB_LINK)  
+
+### [StepBuddy](https://apps.apple.com/us/app/stepbuddy/id6736528879)  
 **Health & fitness tracker powered by HealthKit + Swift Charts**  
 
 Features:  
 - Track steps, BMI, and weight trends  
 - HealthKit integration for real-time data  
 - Interactive insights with Swift Charts  
-- Built with **SwiftUI + MVVM + Clean Architecture**  
+- Built with **SwiftUI + MVVM + Clean Architecture**   
 
 ---
 
