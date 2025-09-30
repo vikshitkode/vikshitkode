@@ -63,9 +63,10 @@ Swift • SwiftUI • UIKit • Combine • HealthKit • SwiftData/Core Data �
 
 ## 📌 My Projects  
 
-<p align="center">
+<!-- <p align="center">
   <img src="INSERT_PROJECT1_GIF_OR_SCREENSHOT" width="200" alt="StepBuddy Demo"/>
-</p>  
+</p>   -->
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 20 46 41" src="https://github.com/user-attachments/assets/fd03e9a0-8e90-4c13-9e04-1b805b75728f" />
 
 
 ### [StepBuddy](https://apps.apple.com/us/app/stepbuddy/id6736528879)  
