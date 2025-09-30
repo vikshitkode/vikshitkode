@@ -1,14 +1,13 @@
 # Vikshit Kode  
 
-**`iOS App Developer | SwiftUI & UIKit Enthusiast | Apple Ecosystem Engineer`**  
+🚀 **iOS Developer | SwiftUI & UIKit | App Store-Ready Experiences**
 
-👋 **Hello, World!**  
+👋 Hi, I’m **Vikshit**, an **iOS Developer & Computer Science Master’s graduate from Seattle University**.  
+I build **intuitive, high-performance iOS apps** that follow **Apple’s HIG** and scale for the future.  
+Specialized in **Swift, SwiftUI, UIKit, HealthKit, Firebase, and SwiftData**, I love crafting apps that  
+deliver **seamless experiences with clean architecture**.  
 
-I’m **Vikshit Kode**, an **iOS App Developer and Computer Science Master's graduate from Seattle University**, passionate about building **intuitive, high-performance iOS applications** that combine **seamless user experiences with clean architecture**.  
-
-My journey revolves around **Swift, SwiftUI, UIKit, HealthKit, SwiftData/Core Data, Firebase, RESTful APIs, and Apple frameworks**. I specialize in crafting **user-centered mobile applications** that are reliable, visually engaging, and scalable for the future.  
-
-When I’m not coding, I explore **new iOS frameworks**, study **Apple’s Human Interface Guidelines**, and prototype **next-gen app ideas** that push the boundaries of mobile experiences. 🚀  
+🌟 Creator of **StepBuddy** (HealthKit fitness tracker on App Store) & other published iOS apps.  
 
 ---
 
