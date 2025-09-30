@@ -64,7 +64,7 @@ Swift • SwiftUI • UIKit • Combine • HealthKit • SwiftData/Core Data �
 ## 📌 My Projects  
 
 <p align="center">
-  <img width="302" height="655" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 20 46 41" src="https://github.com/user-attachments/assets/fd03e9a0-8e90-4c13-9e04-1b805b75728f" />
+  <img  alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 20 46 41" src="https://github.com/user-attachments/assets/fd03e9a0-8e90-4c13-9e04-1b805b75728f" />
 </p>
 
 
@@ -96,10 +96,10 @@ Features:
 ---
 
 <p align="center">
-  <img src="INSERT_PROJECT3_GIF_OR_SCREENSHOT" width="200" alt="War Card Game Demo"/>
+  <img width="302" height="655" alt="Simulator Screenshot - iPhone 16 Pro - 2025-05-03 at 23 00 28" src="https://github.com/user-attachments/assets/f56ceb4a-7187-4734-93a3-d0b163458b0a" />
 </p>  
 
-### [War Card Game](INSERT_GITHUB_LINK)  
+### [War Card Game](INSERT_GITHUB_LINK](https://github.com/vikshitkode/War-Card-Game)
 **SwiftUI-based card game practicing animations & state management**  
 
 Features:  
