@@ -2,10 +2,9 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
+---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8d297732-e0ed-4dc8-b5d6-78b63b96a927" alt="Banner" width="1000" height="250"/>
-</p>
+<img width="1024" height="422" alt="ChatGPT Image Sep 29, 2025, 06_47_14 PM" src="https://github.com/user-attachments/assets/7b755638-ecba-41ed-ab6b-4f1894dd33e3" />
 
 ---
 
