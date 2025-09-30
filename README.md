@@ -2,7 +2,8 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](INSERT_BANNER_IMAGE_URL_HERE)
+
+![Banner](<img width="1024" height="1024" alt="ChatGPT Image Sep 29, 2025, 06_47_14 PM" src="https://github.com/user-attachments/assets/8d297732-e0ed-4dc8-b5d6-78b63b96a927" />)
 
 ---
 
