@@ -4,7 +4,7 @@
 
 ---
 
-<img width="1024" height="422" alt="ChatGPT Image Sep 29, 2025, 06_47_14 PM" src="https://github.com/user-attachments/assets/7b755638-ecba-41ed-ab6b-4f1894dd33e3" />
+<img width="1024" height="422" alt="Sai Vikshit Kode" src="https://github.com/user-attachments/assets/c7accaf2-3153-46ba-b6ec-a2827930b5d9" />
 
 ---
 
