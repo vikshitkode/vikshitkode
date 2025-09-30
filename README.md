@@ -99,7 +99,7 @@ Features:
   <img width="302" height="655" alt="Simulator Screenshot - iPhone 16 Pro - 2025-05-03 at 23 00 28" src="https://github.com/user-attachments/assets/f56ceb4a-7187-4734-93a3-d0b163458b0a" />
 </p>  
 
-### [War Card Game](INSERT_GITHUB_LINK](https://github.com/vikshitkode/War-Card-Game)
+### [War Card Game](https://github.com/vikshitkode/War-Card-Game)
 **SwiftUI-based card game practicing animations & state management**  
 
 Features:  
@@ -110,10 +110,10 @@ Features:
 ---
 
 <p align="center">
-  <img src="INSERT_PROJECT4_GIF_OR_SCREENSHOT" width="200" alt="Seattle Daily Demo"/>
+  <img width="302" height="655" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-09-29 at 23 48 14" src="https://github.com/user-attachments/assets/d075c0c7-22cd-43e5-b7d3-6918ada7d9f9" />
 </p>  
 
-### [Seattle Daily](INSERT_GITHUB_LINK)  
+### [Daily Digest AI](https://github.com/vikshitkode/DailyDigestAI)  
 **Local info digest app with WeatherKit + AI-driven suggestions**  
 
 Features:  
@@ -130,9 +130,7 @@ Features:
 
 ## 🌍 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikshitkode/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vikshitkode)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://vikshitkodeios.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikshitkode/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vikshitkode)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://vikshitkodeios.netlify.app/)  
 
 💬 Open to **iOS internships, entry-level roles, open-source collaborations, and App Store launches**.  
 
