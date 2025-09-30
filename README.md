@@ -4,7 +4,7 @@
 
 ---
 
-<img width="1024" height="422" alt="Sai Vikshit Kode" src="https://github.com/user-attachments/assets/c7accaf2-3153-46ba-b6ec-a2827930b5d9" />
+<img width="1024" height="422" alt="Sai Vikshit Kode (1)" src="https://github.com/user-attachments/assets/70f4dd15-bcdb-4f75-9f8f-a779b9538b17" />
 
 ---
 
