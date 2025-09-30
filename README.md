@@ -63,10 +63,9 @@ Swift • SwiftUI • UIKit • Combine • HealthKit • SwiftData/Core Data �
 
 ## 📌 My Projects  
 
-<!-- <p align="center">
-  <img src="INSERT_PROJECT1_GIF_OR_SCREENSHOT" width="200" alt="StepBuddy Demo"/>
-</p>   -->
-<img width="302" height="655" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 20 46 41" src="https://github.com/user-attachments/assets/fd03e9a0-8e90-4c13-9e04-1b805b75728f" />
+<p align="center">
+  <img width="302" height="655" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 20 46 41" src="https://github.com/user-attachments/assets/fd03e9a0-8e90-4c13-9e04-1b805b75728f" />
+</p>
 
 
 ### [StepBuddy](https://apps.apple.com/us/app/stepbuddy/id6736528879)  
@@ -80,12 +79,13 @@ Features:
 
 ---
 
-<p align="center">
-  <img src="INSERT_PROJECT2_GIF_OR_SCREENSHOT" width="200" alt="GameShare Demo"/>
-</p>  
+<p align = "center">
+  <img width="1905" height="992" alt="image" src="https://github.com/user-attachments/assets/6d4906c9-ee8e-4124-88e7-ec1bb3722c77" />
+</p>
 
-### [GameShare](INSERT_GITHUB_LINK)  
-**iOS marketplace app for renting/buying games**  
+
+### [GameShare](https://gameshare.my.canva.site/gameshare-website) 
+**UX Design App for renting/buying games**  
 
 Features:  
 - Smooth rental & payment flows  
