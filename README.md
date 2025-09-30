@@ -10,7 +10,7 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Hi, I'm Vikshit Kode 🍎  
+# Hi, I'm Vikshit Kode   
 🚀 **iOS Developer | SwiftUI & UIKit | App Store-Ready Experiences**
 
 👋 I’m **Vikshit Kode**, an **iOS Developer & Computer Science Master’s graduate from Seattle University**, passionate about creating **high-performance, intuitive iOS apps**.  
