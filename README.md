@@ -1,17 +1,44 @@
-# Vikshit Kode  
+<!-- ============================= -->
+<!--          BANNER SECTION       -->
+<!-- ============================= -->
 
-🚀 **iOS Developer | SwiftUI & UIKit | App Store-Ready Experiences**
-
-👋 Hi, I’m **Vikshit**, an **iOS Developer & Computer Science Master’s graduate from Seattle University**.  
-I build **intuitive, high-performance iOS apps** that follow **Apple’s HIG** and scale for the future.  
-Specialized in **Swift, SwiftUI, UIKit, HealthKit, Firebase, and SwiftData**, I love crafting apps that  
-deliver **seamless experiences with clean architecture**.  
-
-🌟 Creator of **StepBuddy** (HealthKit fitness tracker on App Store) & other published iOS apps.  
+![Banner](INSERT_BANNER_IMAGE_URL_HERE)
 
 ---
 
-### 🛠 iOS Tech Stack  
+<!-- ============================= -->
+<!--          INTRODUCTION         -->
+<!-- ============================= -->
+
+# Hi, I'm Vikshit Kode 🍎  
+🚀 **iOS Developer | SwiftUI & UIKit | App Store-Ready Experiences**
+
+👋 I’m **Vikshit Kode**, an **iOS Developer & Computer Science Master’s graduate from Seattle University**, passionate about creating **high-performance, intuitive iOS apps**.  
+I focus on **Swift, SwiftUI, UIKit, HealthKit, Firebase, and SwiftData**, building **clean, scalable apps** that follow Apple’s HIG and deliver seamless user experiences.  
+
+---
+
+<!-- ============================= -->
+<!--             ABOUT ME          -->
+<!-- ============================= -->
+
+## About Me  
+
+- 💻 Started my journey coding in **Swift**, building small apps as passion projects.  
+- 📱 Published **StepBuddy** (HealthKit-powered fitness tracker) on the **App Store**.  
+- 🎮 Built **GameShare**, an iOS marketplace for buying & renting games with smooth payment flows.  
+- 🃏 Created **War Card Game** in SwiftUI to practice animations, state management, and game logic.  
+- 🌤️ Developed **Seattle Daily**, a local info digest app with **WeatherKit + AI suggestions**.  
+
+🎯 **Future Goal:** Advance as an **iOS Engineer** contributing to **App Store-ready products** and exploring **AI-powered mobile experiences**.  
+
+---
+
+<!-- ============================= -->
+<!--         TECH & TOOLS          -->
+<!-- ============================= -->
+
+## 🛠 Tech & Tools  
 
 <p align="center">
   <img alt="Swift" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
@@ -24,27 +51,94 @@ deliver **seamless experiences with clean architecture**.
 </p>  
 
 **Core Expertise:**  
-Swift • SwiftUI • UIKit • Combine • HealthKit • SwiftData/Core Data • Firebase • REST APIs • MapKit • AVFoundation • XCTest • MVVM • Clean Architecture • UI/UX Design
+Swift • SwiftUI • UIKit • Combine • HealthKit • SwiftData/Core Data • Firebase • REST APIs • MapKit • AVFoundation • XCTest • MVVM • Clean Architecture • UI/UX (Apple HIG)
 
 ---
 
-### 📌 **iOS Journey**  
+<!-- ============================= -->
+<!--           MY PROJECTS         -->
+<!-- ============================= -->
 
-🔹 Started coding in **Swift**, building simple iOS apps as passion projects.  
-🔹 Freelance **iOS Developer in India**, built a **medical sales app** using Swift & Firebase.  
-🔹 Graduated with a **Master’s in Computer Science (Seattle University)**, specializing in **iOS, UX, and mobile computing**.  
-🔹 Built **StepBuddy**, a health & fitness tracker using **HealthKit + Swift Charts** with interactive insights.  
-🔹 Created **GameShare**, an iOS marketplace app for buying/renting games with smooth **payment & rental flows**.  
-🔹 Developed a **War Card Game** in SwiftUI to practice animations, state management, and game logic.  
-🔹 Designed **Seattle Daily**, a local info digest app integrating **WeatherKit, CoreLocation, and AI-driven suggestions**.  
+## 📌 My Projects  
 
-🚀 **Future Goals:** Advance as an **iOS Engineer**, contribute to **App Store-ready products**, and explore **AI-powered iOS applications**.  
+<p align="center">
+  <img src="INSERT_PROJECT1_GIF_OR_SCREENSHOT" width="200" alt="StepBuddy Demo"/>
+</p>  
+
+### [StepBuddy](INSERT_APP_STORE_OR_GITHUB_LINK)  
+**Health & fitness tracker powered by HealthKit + Swift Charts**  
+
+Features:  
+- Track steps, BMI, and weight trends  
+- HealthKit integration for real-time data  
+- Interactive insights with Swift Charts  
+- Built with **SwiftUI + MVVM + Clean Architecture**  
 
 ---
 
-### 🌍 **Let’s Connect!**  
+<p align="center">
+  <img src="INSERT_PROJECT2_GIF_OR_SCREENSHOT" width="200" alt="GameShare Demo"/>
+</p>  
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikshitkode/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikshitkode) | [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vikshitkodeios.netlify.app/) |  
-|---|---|---|  
+### [GameShare](INSERT_GITHUB_LINK)  
+**iOS marketplace app for renting/buying games**  
 
-💬 Open to **iOS internships, entry-level roles, open-source collaborations, and App Store launches**. Let’s **build impactful apps for the Apple ecosystem**! 🍎  
+Features:  
+- Smooth rental & payment flows  
+- Add-to-cart functionality for multiple transactions  
+- Secure data with Firebase backend  
+- Modern UI built with SwiftUI  
+
+---
+
+<p align="center">
+  <img src="INSERT_PROJECT3_GIF_OR_SCREENSHOT" width="200" alt="War Card Game Demo"/>
+</p>  
+
+### [War Card Game](INSERT_GITHUB_LINK)  
+**SwiftUI-based card game practicing animations & state management**  
+
+Features:  
+- Dynamic card animations  
+- Interactive game logic  
+- Lightweight SwiftUI architecture  
+
+---
+
+<p align="center">
+  <img src="INSERT_PROJECT4_GIF_OR_SCREENSHOT" width="200" alt="Seattle Daily Demo"/>
+</p>  
+
+### [Seattle Daily](INSERT_GITHUB_LINK)  
+**Local info digest app with WeatherKit + AI-driven suggestions**  
+
+Features:  
+- Weather forecasts using WeatherKit  
+- CoreLocation for location-based updates  
+- AI-powered “Seattle Tip of the Day”  
+- Clean SwiftUI interface  
+
+---
+
+<!-- ============================= -->
+<!--          CONNECT WITH ME      -->
+<!-- ============================= -->
+
+## 🌍 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikshitkode/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vikshitkode)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://vikshitkodeios.netlify.app/)  
+
+💬 Open to **iOS internships, entry-level roles, open-source collaborations, and App Store launches**.  
+
+---
+
+<!-- ============================= -->
+<!--           GITHUB STATS        -->
+<!-- ============================= -->
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikshitkode&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikshitkode&layout=compact&theme=tokyonight)  
