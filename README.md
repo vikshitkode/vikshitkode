@@ -134,13 +134,3 @@ Features:
 
 💬 Open to **iOS internships, entry-level roles, open-source collaborations, and App Store launches**.  
 
----
-
-<!-- ============================= -->
-<!--           GITHUB STATS        -->
-<!-- ============================= -->
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikshitkode&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikshitkode&layout=compact&theme=tokyonight)  
